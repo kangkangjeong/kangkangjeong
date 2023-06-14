@@ -50,15 +50,15 @@
    
   <h3> 💬 Ask Me 💬 </h3>
   <p algin="center">
-    <a href="https://www.instagram.com/jumy_dong/">
+    <a href="https://www.instagram.com/kangkangjeong/">
       <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/jumy_dong/"
            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
-    <a href="https://kdjun97.github.io/">
+    <a href="https://kangkangjeong.tistory.com/">
       <img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://kdjun97.github.io/"
            style="height : auto; margin-left : 10px; margin-right : 10px;"/>
     </a>
-    <a href="mailto:kdjun97@gmail.com">
+    <a href="mailto:xuying@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kdjun97@gmail.com"/>
     </a>
   </p>
