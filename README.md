@@ -6,7 +6,7 @@
 <div align="center">
   <h3>✨ About Me ✨</h3>
   Hi! I'm interested in Mobile App, Automation, software engineering Solution and IoT 📱🔐🌐<br>
-  I enjoy playing the piano and working out a
+  I enjoy playing the piano and working out 
   
   <h3>🛠️ Tech Stack🛠️</h3>
 
