@@ -8,7 +8,7 @@
   Hi! I'm interested in Mobile App, Automation, software engineering Solution and IoT 📱🔐🌐<br>
   I enjoy playing football, working out<br>
   My favorite sentence is<br> "Strike while the iron is hot." (기회를 놓치지 말고 즉시 행동하라.)<br>
-  "Just dive in. (일단 뛰어들어라.)"
+  "Just dive in." (일단 뛰어들어라.)
   
   <h3>🛠️ Tech Stack🛠️</h3>
 
